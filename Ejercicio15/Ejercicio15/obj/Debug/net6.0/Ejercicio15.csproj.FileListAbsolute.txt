@@ -1,0 +1,15 @@
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\bin\Debug\net6.0\Ejercicio15.exe
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\bin\Debug\net6.0\Ejercicio15.deps.json
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\bin\Debug\net6.0\Ejercicio15.runtimeconfig.json
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\bin\Debug\net6.0\Ejercicio15.dll
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\bin\Debug\net6.0\Ejercicio15.pdb
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.csproj.AssemblyReference.cache
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.AssemblyInfoInputs.cache
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.AssemblyInfo.cs
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.dll
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\refint\Ejercicio15.dll
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.pdb
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\Ejercicio15.genruntimeconfig.cache
+C:\Users\I546466\Documents\GitHub\CAI_1_27.3.2023_Repaso-Ejercicio15\Ejercicio15\Ejercicio15\obj\Debug\net6.0\ref\Ejercicio15.dll
